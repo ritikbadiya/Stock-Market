@@ -1,0 +1,3 @@
+https://en.wikipedia.org/wiki/Long_short-term_memory
+https://www.geeksforgeeks.org/introduction-to-recurrent-neural-network/
+https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction?specialization=tensorflow-in-practice
